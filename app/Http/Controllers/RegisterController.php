@@ -6,5 +6,5 @@ namespace App\Http\Controllers;
 
 class RegisterController
 {
-   //test again
+   //test again modify
 }
